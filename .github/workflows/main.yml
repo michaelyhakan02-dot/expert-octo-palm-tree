@@ -111,3 +111,4 @@ empregos:
               Write-Host "[$(Get-Date)] RDP Ativo - Use Ctrl+C no fluxo de trabalho para encerrar"
               Iniciar-Dormir -Segundos 300
           }
+          
